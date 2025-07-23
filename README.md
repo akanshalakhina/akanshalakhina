@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **akanshalakhina23@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Full Stack Project
-- 🌱 **I’m currently learning:** Machine Leraning
+- 🌱 **I’m currently learning:** AI and Machine Learning
 - 💞️ I’m looking to collaborate on new and innovative ideas
 - 💡 Building apps, breaking bugs, and chasing birdies 🏸 one smash at a time
   
